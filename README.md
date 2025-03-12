@@ -18,6 +18,6 @@ as much as possible in the following solutions, due to the timed nature of AoC,
 many solutions may be more procedural in nature (perhaps with the addition of a small
 "struct-like" class for representing data). In some cases, my modularity leaves a bit
 to be desired. The purpose of the following solutions is to demonstrate my code maintenance
-and organization, my ability to adapt and problem-solve solutions to unique problems
+and organization, my ability to adapt and develop solutions to unique problems
 that deviate from standard industry norms, and spark discussion amongst others who participated
 in the AoC event. 
