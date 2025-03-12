@@ -1,0 +1,21 @@
+bytes are falling into memory space:
+	-one byte per nanosecond
+	-each byte is given as x y coordinate
+		-x is distance from left edge
+		-y is distance from top
+	-Falling bytes corrupt coordinates
+	
+Memory space is 2d grid
+	-Dimensions are 7x7 for example
+		-Index ranges from 0 to 6 in both directions
+	-Dimensions are 71x71 for real input
+		-Index ranges from 0 to 70 in both directions
+	
+Trying to navigate from top-left corner to bottom-right corner
+	-ie start = (0,0) end = (70,70)
+	
+Simulate falling bytes to figure out safe path
+	-12 for example
+		-Shortest path is then 22 steps
+	-1024 (first kilobyte) for real input
+		-Find minimum steps needed to reach exit

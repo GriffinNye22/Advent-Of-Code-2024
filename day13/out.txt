@@ -1,0 +1,268 @@
+Machine 1 succeeded with 219
+Machine 2 failed.
+Machine 3 succeeded with 191
+Machine 4 succeeded with 96
+Machine 5 succeeded with 332
+Machine 6 succeeded with 261
+Machine 7 succeeded with 284
+Machine 8 failed.
+Machine 9 succeeded with 163
+Machine 10 failed.
+Machine 11 failed.
+Machine 12 failed.
+Machine 13 failed.
+Machine 14 succeeded with 197
+Machine 15 failed.
+Machine 16 failed.
+Machine 17 succeeded with 335
+Machine 18 failed.
+Machine 19 failed.
+Machine 20 succeeded with 190
+Machine 21 failed.
+Machine 22 succeeded with 266
+Machine 23 succeeded with 155
+Machine 24 succeeded with 159
+Machine 25 failed.
+Machine 26 succeeded with 133
+Machine 27 failed.
+Machine 28 failed.
+Machine 29 failed.
+Machine 30 failed.
+Machine 31 succeeded with 327
+Machine 32 failed.
+Machine 33 succeeded with 136
+Machine 34 failed.
+Machine 35 failed.
+Machine 36 failed.
+Machine 37 succeeded with 271
+Machine 38 failed.
+Machine 39 succeeded with 225
+Machine 40 failed.
+Machine 41 failed.
+Machine 42 succeeded with 232
+Machine 43 succeeded with 290
+Machine 44 failed.
+Machine 45 succeeded with 230
+Machine 46 failed.
+Machine 47 succeeded with 125
+Machine 48 succeeded with 86
+Machine 49 failed.
+Machine 50 failed.
+Machine 51 failed.
+Machine 52 failed.
+Machine 53 failed.
+Machine 54 succeeded with 247
+Machine 55 failed.
+Machine 56 succeeded with 305
+Machine 57 succeeded with 279
+Machine 58 failed.
+Machine 59 failed.
+Machine 60 failed.
+Machine 61 succeeded with 251
+Machine 62 failed.
+Machine 63 succeeded with 83
+Machine 64 succeeded with 264
+Machine 65 failed.
+Machine 66 succeeded with 325
+Machine 67 failed.
+Machine 68 failed.
+Machine 69 failed.
+Machine 70 failed.
+Machine 71 failed.
+Machine 72 failed.
+Machine 73 failed.
+Machine 74 failed.
+Machine 75 succeeded with 165
+Machine 76 succeeded with 321
+Machine 77 failed.
+Machine 78 succeeded with 154
+Machine 79 succeeded with 390
+Machine 80 succeeded with 197
+Machine 81 failed.
+Machine 82 failed.
+Machine 83 failed.
+Machine 84 succeeded with 309
+Machine 85 failed.
+Machine 86 succeeded with 246
+Machine 87 failed.
+Machine 88 failed.
+Machine 89 succeeded with 263
+Machine 90 succeeded with 285
+Machine 91 failed.
+Machine 92 failed.
+Machine 93 succeeded with 185
+Machine 94 failed.
+Machine 95 failed.
+Machine 96 failed.
+Machine 97 failed.
+Machine 98 succeeded with 331
+Machine 99 failed.
+Machine 100 succeeded with 160
+Machine 101 succeeded with 115
+Machine 102 failed.
+Machine 103 failed.
+Machine 104 succeeded with 146
+Machine 105 failed.
+Machine 106 failed.
+Machine 107 failed.
+Machine 108 failed.
+Machine 109 failed.
+Machine 110 succeeded with 176
+Machine 111 failed.
+Machine 112 failed.
+Machine 113 succeeded with 374
+Machine 114 succeeded with 116
+Machine 115 succeeded with 283
+Machine 116 failed.
+Machine 117 failed.
+Machine 118 succeeded with 87
+Machine 119 failed.
+Machine 120 failed.
+Machine 121 failed.
+Machine 122 failed.
+Machine 123 failed.
+Machine 124 succeeded with 234
+Machine 125 succeeded with 214
+Machine 126 succeeded with 248
+Machine 127 failed.
+Machine 128 failed.
+Machine 129 succeeded with 262
+Machine 130 failed.
+Machine 131 failed.
+Machine 132 succeeded with 192
+Machine 133 failed.
+Machine 134 failed.
+Machine 135 failed.
+Machine 136 succeeded with 227
+Machine 137 failed.
+Machine 138 failed.
+Machine 139 succeeded with 280
+Machine 140 succeeded with 180
+Machine 141 failed.
+Machine 142 succeeded with 319
+Machine 143 failed.
+Machine 144 failed.
+Machine 145 failed.
+Machine 146 failed.
+Machine 147 failed.
+Machine 148 succeeded with 355
+Machine 149 succeeded with 67
+Machine 150 failed.
+Machine 151 succeeded with 279
+Machine 152 succeeded with 191
+Machine 153 succeeded with 216
+Machine 154 succeeded with 264
+Machine 155 failed.
+Machine 156 failed.
+Machine 157 failed.
+Machine 158 succeeded with 349
+Machine 159 failed.
+Machine 160 failed.
+Machine 161 failed.
+Machine 162 succeeded with 153
+Machine 163 failed.
+Machine 164 failed.
+Machine 165 failed.
+Machine 166 succeeded with 218
+Machine 167 failed.
+Machine 168 succeeded with 36
+Machine 169 failed.
+Machine 170 failed.
+Machine 171 failed.
+Machine 172 succeeded with 107
+Machine 173 succeeded with 152
+Machine 174 failed.
+Machine 175 succeeded with 196
+Machine 176 failed.
+Machine 177 succeeded with 328
+Machine 178 failed.
+Machine 179 failed.
+Machine 180 failed.
+Machine 181 failed.
+Machine 182 succeeded with 41
+Machine 183 failed.
+Machine 184 failed.
+Machine 185 succeeded with 142
+Machine 186 succeeded with 205
+Machine 187 failed.
+Machine 188 succeeded with 214
+Machine 189 succeeded with 116
+Machine 190 succeeded with 331
+Machine 191 succeeded with 242
+Machine 192 succeeded with 90
+Machine 193 succeeded with 76
+Machine 194 succeeded with 288
+Machine 195 succeeded with 109
+Machine 196 failed.
+Machine 197 failed.
+Machine 198 succeeded with 41
+Machine 199 succeeded with 212
+Machine 200 succeeded with 183
+Machine 201 failed.
+Machine 202 failed.
+Machine 203 succeeded with 225
+Machine 204 succeeded with 79
+Machine 205 failed.
+Machine 206 succeeded with 104
+Machine 207 failed.
+Machine 208 failed.
+Machine 209 succeeded with 240
+Machine 210 failed.
+Machine 211 failed.
+Machine 212 failed.
+Machine 213 succeeded with 214
+Machine 214 succeeded with 133
+Machine 215 succeeded with 53
+Machine 216 succeeded with 211
+Machine 217 failed.
+Machine 218 failed.
+Machine 219 failed.
+Machine 220 failed.
+Machine 221 failed.
+Machine 222 failed.
+Machine 223 failed.
+Machine 224 failed.
+Machine 225 succeeded with 134
+Machine 226 failed.
+Machine 227 failed.
+Machine 228 failed.
+Machine 229 failed.
+Machine 230 succeeded with 241
+Machine 231 failed.
+Machine 232 failed.
+Machine 233 succeeded with 201
+Machine 234 failed.
+Machine 235 succeeded with 336
+Machine 236 failed.
+Machine 237 succeeded with 240
+Machine 238 failed.
+Machine 239 failed.
+Machine 240 failed.
+Machine 241 failed.
+Machine 242 succeeded with 200
+Machine 243 failed.
+Machine 244 succeeded with 179
+Machine 245 failed.
+Machine 246 succeeded with 211
+Machine 247 failed.
+Machine 248 succeeded with 48
+Machine 249 succeeded with 79
+Machine 250 failed.
+Machine 251 succeeded with 204
+Machine 252 succeeded with 146
+Machine 253 failed.
+Machine 254 failed.
+Machine 255 failed.
+Machine 256 failed.
+Machine 257 failed.
+Machine 258 failed.
+Machine 259 succeeded with 318
+Machine 260 succeeded with 128
+Machine 261 failed.
+Machine 262 succeeded with 119
+Machine 263 failed.
+Machine 264 failed.
+Machine 265 failed.
+Machine 266 failed.
+Machine 267 succeeded with 98
+22458

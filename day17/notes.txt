@@ -1,0 +1,64 @@
+input is a list of 3-bit numbers (0-7)
+
+3 registers named A, B, & C that can store any integer (not limited to 3 bit numbers)
+
+8 instructions, each identified by an opcode
+
+opcode is a 3-bit number (0-7)
+  -0 (adv)
+    -division
+    -numerator is value in register A
+    -Denominator is 2^ combo operand
+    -Result is truncated to integer and stored in register A
+    
+  -1 (bxl)
+    -bitwise XOR
+    -operand1 is value in register B
+    -operand2 is literal operand
+    -Result stored in register B
+    
+  -2 (bst)
+    -calculates value of combo operand mod 8 (thereby keeping only lowest 3 bits)
+    -Result stored in register B
+    
+  -3 (jnz)
+    -Does nothing if register A is 0
+    -Otherwise jumps by setting instruction pointer to value of literal operand
+    -If it jumps, then instruction pointer is not incremented by 2 after instruction
+    
+  -4 (bxc)
+    -bitwise XOR
+    -operand1 is value in register B
+    -operand2 is value in register C
+    -Result stored in register B
+    -(Reads an operand for compatibility purposes, but ignores it)
+    
+  -5 (out)
+    -calculates the value of combo operand mod 8
+    -Result is output (if a program outputs multiple values, they are separated by commas)
+    
+  -6 (bdv)
+    -works just like adv (opcode 0) except:
+    -Result is stored in B register
+    
+  -7 (cdv)
+    -works just like adv (opcode 0) except:
+    -Result is stored in C register
+
+operand is a 3-bit number
+  -2 types:
+    -literal operands: the operand itself 
+    -combo operands:
+      -0-3 is literal
+      -4 is value in register A
+      -5 is value in register B
+      -6 is value in register C
+      -7 is reserved and will not appear in valid programs
+
+format is opcode followed by operand
+
+instruction pointer identifies position for next read opcode
+  -starts at 0, increment by 2, except for jump instructions
+  -if instruction pointer reads past end of program, it halts
+  
+
